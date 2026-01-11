@@ -6,35 +6,28 @@
     <description>Recent content in Home on Outstanding Instructions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post 3</title>
-      <link>http://localhost:1313/posts/post-3/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-3/</guid>
-      <description>&lt;p&gt;This is a summary.&lt;/p&gt;</description>
+      <title>What I do</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I create a variety of content, including articles, documentation, manuals, tutorials, work instructions, and more.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Post 2</title>
-      <link>http://localhost:1313/posts/post-2/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-2/</guid>
-      <description>&lt;p&gt;This is a summary.&lt;/p&gt;</description>
+      <title>My expertise</title>
+      <link>http://localhost:1313/expertise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/expertise/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an experienced Agile practitioner. I can code. And I use the design thinking process to deliver content that solves user problems.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Post 4</title>
-      <link>http://localhost:1313/posts/post-4/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-4/</guid>
-      <description>&lt;p&gt;This is a summary.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post 1</title>
-      <link>http://localhost:1313/posts/post-1/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
-      <description>&lt;p&gt;This is a summary.&lt;/p&gt;</description>
+      <title>Results</title>
+      <link>http://localhost:1313/results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/results/</guid>
+      <description>&lt;p&gt;My work boosts user satisfaction and retention. It lowers support volume and reduces time-to-resolution of support tickets.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

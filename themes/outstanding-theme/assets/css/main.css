@@ -1,6 +1,6 @@
 body {
   color: #222;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 1.5;
   margin: auto;
   margin-top:0px;
@@ -10,7 +10,7 @@ body {
 
 h1{
   color: #463C74;
-  font-family: "Luckiest Guy", cursive;
+  font-family: "Share Tech Mono", monospace;
   font-weight: 400;
   font-style: normal;
   margin-bottom: 0px;
@@ -19,8 +19,8 @@ h1{
 *{
   box-sizing: border-box;
 }
+
 header {
-  
   width: 100%;
   margin:0px;
 }
@@ -43,13 +43,11 @@ a:hover{
 /* controls the big bar at the top of the page */
 .navbar{
   width: 100%;
-  /*background-color: #032B43;*/
+  background-color: #B4D51E;
   margin: auto;
   text-align: center;
   color: #463C74;
-  background-image: url('../website-banner.svg');
-  background-position: center;
-  height:81px;
+  padding: 1em;
 }
 
 
@@ -80,6 +78,10 @@ nav ul li{
   display: inline-block;
 }
 
+.main ul li{
+  display: list-item;
+}
+
 .center{
   text-align: center;
   width:100%;
@@ -96,12 +98,11 @@ text-overflow: ellipsis;
 background-color: #B4D51E;
 padding:1em;
 border-radius: 12px;
-max-height: 128px;
 color:#463C74;
 }
 
 .post a{
-  font-family: "Luckiest Guy", cursive;
+  font-family: "Share Tech Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
@@ -112,4 +113,11 @@ color:#463C74;
 
 .summary p{
   margin:0px;
+}
+
+.intro ul{
+  display: block;
+  width: 90%;
+max-width: 1024px;
+margin: auto;
 }
