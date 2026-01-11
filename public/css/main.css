@@ -54,6 +54,7 @@ a:hover{
 
 .navbar-home{
   width: 100%;
+  padding: 2rem 1rem;
   background-color: #B4D51E;
   margin: auto;
   text-align: center;
@@ -103,8 +104,11 @@ nav ul li a{
   text-align: center;
   width:100%;
 }
+
 #avatar{
-  width:192px;
+  height: 100%;
+  max-height:192px;
+  height:auto;
   align-self: center;
 }
 
@@ -145,9 +149,7 @@ font-style: normal;
   margin: auto;
 }
 
-#avatar{
-  max-width:256px;
-}
+
 
 #big{
   margin:2rem;
