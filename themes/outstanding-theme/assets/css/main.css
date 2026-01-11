@@ -3,40 +3,113 @@ body {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
   margin: auto;
-  max-width: 768px;
+  margin-top:0px;
+  width:100%;
+  background-color: #FBF4E2;
 }
 
+h1{
+  color: #463C74;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 0px;
+}
+
+*{
+  box-sizing: border-box;
+}
 header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
+  
+  width: 100%;
+  margin:0px;
 }
 
 footer {
-  border-top: 1px solid #222;
   margin-top: 1rem;
+  text-align: center;
 }
 
 a {
-  color: #00e;
+  color: white;
   text-decoration: none;
 }
 
+/* sets the color of all links */
+a:hover{
+  color:#032B43;
+}
 
+/* controls the big bar at the top of the page */
 .navbar{
   width: 100%;
-  background-color: #efefef;
+  /*background-color: #032B43;*/
   margin: auto;
   text-align: center;
-  padding: 1rem;
+  color: #463C74;
+  background-image: url('../website-banner.svg');
+  background-position: center;
+  height:81px;
+}
+
+
+main{
+  width: 90%;
+  max-width: 1024px;
+  margin: auto;
+}
+
+.grid{
+  width:90%;
+  margin:auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(256px,1fr));
+  gap:1rem;
 }
 
 /* removes the bullets from the menu items */
 nav ul{
   list-style: none;
   text-align: center;
+  padding-inline-start: 0px;
+  margin-top: 0px;
 }
 
 /* arranges menu items horizontally */
 nav ul li{
   display: inline-block;
+}
+
+.center{
+  text-align: center;
+  width:100%;
+}
+#avatar{
+  width:192px;
+  align-self: center;
+}
+
+.post{
+width: 100%;
+overflow:hidden;
+text-overflow: ellipsis;
+background-color: #B4D51E;
+padding:1em;
+border-radius: 12px;
+max-height: 128px;
+color:#463C74;
+}
+
+.post a{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.post h2{
+  margin: 0px;
+}
+
+.summary p{
+  margin:0px;
 }
