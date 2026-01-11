@@ -47,9 +47,22 @@ a:hover{
   margin: auto;
   text-align: center;
   color: #463C74;
-  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
+.navbar-home{
+  width: 100%;
+  background-color: #B4D51E;
+  margin: auto;
+  text-align: center;
+  color: #463C74;
+  display: flex;
+  flex-direction: column;
+  height:50vh;
+  justify-content: center;
+}
 
 main{
   width: 90%;
@@ -76,6 +89,10 @@ nav ul{
 /* arranges menu items horizontally */
 nav ul li{
   display: inline-block;
+}
+
+nav ul li a{
+  color:#463C74;
 }
 
 .main ul li{
@@ -107,6 +124,12 @@ color:#463C74;
   font-style: normal;
 }
 
+h2, h3, h4, h5{
+font-family: "Share Tech Mono", monospace;
+font-weight: 400;
+font-style: normal;
+}
+
 .post h2{
   margin: 0px;
 }
@@ -118,6 +141,14 @@ color:#463C74;
 .intro ul{
   display: block;
   width: 90%;
-max-width: 1024px;
-margin: auto;
+  max-width: 1024px;
+  margin: auto;
+}
+
+#avatar{
+  max-width:256px;
+}
+
+#big{
+  margin:2rem;
 }
