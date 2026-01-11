@@ -60,7 +60,7 @@ a:hover{
   color: #463C74;
   display: flex;
   flex-direction: column;
-  height:50vh;
+  min-height:50vh;
   justify-content: center;
 }
 
