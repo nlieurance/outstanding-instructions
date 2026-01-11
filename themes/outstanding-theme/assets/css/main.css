@@ -1,0 +1,42 @@
+body {
+  color: #222;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  margin: auto;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+
+.navbar{
+  width: 100%;
+  background-color: #efefef;
+  margin: auto;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* removes the bullets from the menu items */
+nav ul{
+  list-style: none;
+  text-align: center;
+}
+
+/* arranges menu items horizontally */
+nav ul li{
+  display: inline-block;
+}
