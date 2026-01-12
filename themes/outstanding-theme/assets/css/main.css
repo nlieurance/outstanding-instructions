@@ -159,3 +159,14 @@ font-style: normal;
 p img{
   width:100%;
 }
+
+figure{
+  width:100%;
+  margin:0px;
+}
+
+figure img{
+  width:25%;
+  float:left;
+  padding:1em;
+}

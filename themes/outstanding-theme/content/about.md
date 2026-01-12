@@ -9,24 +9,43 @@ See some of my articles, documentation, manuals, tutorials, and work instruction
 <!--more-->
 
 ## Articles
-![Placeholder](../placeholder.png)
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
 
 ## Courses and tutorials
 For nearly two years, I developed online courses for woodworking hobbyists at Popular Woodworking.
 
-![Placeholder](../placeholder.png)
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
 
 ## Documentation
-![Placeholder](../placeholder.png)
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
 
 ## Instruction manuals
-![Placeholder](../placeholder.png)
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
 
 ## User guides
 I created dozens of instruction sheets for Yonico router bits. 
 
-![Router bit instructions](../yonico.png)
-
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
 
 
 ## Work instructions
+
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
