@@ -97,10 +97,16 @@ nav ul{
 /* arranges menu items horizontally */
 nav ul li{
   display: inline-block;
+  margin: auto;
+  padding:1rem;
 }
 
 nav ul li a{
   color:#463C74;
+}
+
+nav ul li a:hover{
+  color: white;
 }
 
 .main ul li{

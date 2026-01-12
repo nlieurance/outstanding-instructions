@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://oustandinginstructions.com/'
 languageCode = 'en-US'
 title = 'Outstanding Instructions'
 
@@ -9,14 +9,14 @@ title = 'Outstanding Instructions'
     weight = 10
 
   [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
+    name = 'Blog'
+    pageRef = '/blog'
     weight = 20
 
-  [[menus.main]]
-    name = 'Tags'
-    pageRef = '/tags'
-    weight = 30
+#  [[menus.main]]
+#    name = 'Tags'
+#    pageRef = '/tags'
+#    weight = 30
 
 [module]
   [module.hugoVersion]
