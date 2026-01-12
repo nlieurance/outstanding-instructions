@@ -4,6 +4,7 @@ body {
   line-height: 1.5;
   margin: auto;
   margin-top:0px;
+  margin-bottom: 1em;
   width:100%;
   background-color: #FBF4E2;
 }
@@ -153,4 +154,8 @@ font-style: normal;
 
 #big{
   margin:2rem;
+}
+
+img{
+  width:100%;
 }
