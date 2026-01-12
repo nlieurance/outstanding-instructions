@@ -31,17 +31,22 @@ footer {
   text-align: center;
 }
 
-a {
+h2 a {
   color: white;
   text-decoration: none;
 }
 
 /* sets the color of all links */
-a:hover{
+h2 a:hover{
   color:#032B43;
 }
 
-/* controls the big bar at the top of the page */
+a{
+  color:#032B43;
+  text-decoration: none;
+}
+
+/* controls the big bar at the top of every page EXCEPT the homepage */
 .navbar{
   width: 100%;
   background-color: #B4D51E;
@@ -53,6 +58,7 @@ a:hover{
   justify-content: center;
 }
 
+/* controls the big bar at the top of the HOMEPAGE only */
 .navbar-home{
   width: 100%;
   padding: 2rem 1rem;
@@ -150,8 +156,6 @@ font-style: normal;
   margin: auto;
 }
 
-
-
 #big{
   margin:2rem;
 }
@@ -167,6 +171,24 @@ figure{
 
 figure img{
   width:25%;
+  min-width:240px;
   float:left;
   padding:1em;
+  margin:auto;
+}
+
+[id^="read-it"]{
+  text-align: center;
+  padding: 1em;
+  background-color: #B4D51E;
+  width: fit-content;
+  border-radius: 12px;
+}
+
+[id^="read-it"] a:hover{
+  color: white; 
+}
+
+hr{
+  color: #463C74;
 }

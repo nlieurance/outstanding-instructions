@@ -9,43 +9,47 @@ See some of my articles, documentation, manuals, tutorials, and work instruction
 <!--more-->
 
 ## Articles
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+CodeWizardsHQ offers online courses that help kids learn to code. I developed this glossary to help their students understand coding terms.
+
+![Kids'programming glossary](../codeWizards.png)
+
+### [Read it](https://www.codewizardshq.com/kids-guide-200-common-programming-terms/)
+
+---
+
+For two years, I wrote how-to articles and developed online courses for Popular Woodworking. You can see all this great content on my author page.
+
+![Popular Woodworking screenshot](../popWood.png)
+
+### [Read it](https://www.popularwoodworking.com/author/nick-lieurance)
+
+---
 
 ## Courses and tutorials
-For nearly two years, I developed online courses for woodworking hobbyists at Popular Woodworking.
+Stay tuned!
 
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+---
 
 ## Documentation
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+Stay tuned!
 
-## Instruction manuals
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+---
 
-## User guides
-I created dozens of instruction sheets for Yonico router bits. 
+## Instruction manuals & user guides
+I've produced hundreds of instruction manuals, quick-start guides, and other materials for water-monitoring instruments and software.
 
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
+![Partech quick-start guide](../partech.png)
 
+### [Read it](#)
+
+---
+
+I created dozens of instruction sheets for Yonico router bits.
+
+![Router bit instructions](../yonico.png)
+
+### [Read it](https://www.precisionbits.com/images/companies/1/Yonico%2012247%20-%202%20Piece%20Bevel%20Rail%20&%20Stile%20Instructions%20(Complete).pdf)
 
 ## Work instructions
+Stay tuned!
 
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
-{{< figure src="../image.png" link="../yonico.png" alt="A placeholder image"  >}}
