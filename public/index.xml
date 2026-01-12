@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Outstanding Instructions by Nick Lieurance</title>
-    <link>http://localhost:63404/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Outstanding Instructions by Nick Lieurance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:63404/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Work samples</title>
-      <link>http://localhost:63404/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
-      <guid>http://localhost:63404/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;See some of my articles, documentation, manuals, tutorials, and work instructions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Background info</title>
-      <link>http://localhost:63404/expertise/</link>
+      <link>http://localhost:1313/expertise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63404/expertise/</guid>
+      <guid>http://localhost:1313/expertise/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an experienced Agile practitioner. I can code. And I use the design thinking process to deliver content that solves user problems.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Results</title>
-      <link>http://localhost:63404/results/</link>
+      <link>http://localhost:1313/results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63404/results/</guid>
+      <guid>http://localhost:1313/results/</guid>
       <description>&lt;p&gt;My work boosts user satisfaction and retention. It lowers support volume and reduces time-to-resolution of support tickets.&lt;/p&gt;</description>
     </item>
   </channel>
