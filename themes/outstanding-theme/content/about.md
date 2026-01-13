@@ -17,7 +17,7 @@ CodeWizardsHQ offers online courses that help kids learn to code. I developed th
 
 ---
 
-For two years, I wrote how-to articles and developed online courses for Popular Woodworking. You can see all this great content on my author page.
+For two years, I wrote how-to articles and developed online courses for Popular Woodworking. You can see some examples on my author page.
 
 ![Popular Woodworking screenshot](../popWood.png)
 
@@ -44,7 +44,7 @@ I've produced hundreds of instruction manuals, quick-start guides, and other mat
 
 ---
 
-I created dozens of instruction sheets for Yonico router bits.
+I created dozens of instruction sheets for Yonico router bits. My work included 3D modeling, illustration, technical writing, and layout.
 
 ![Router bit instructions](../yonico.png)
 
