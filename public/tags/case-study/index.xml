@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Study on Outstanding Instructions by Nick Lieurance</title>
+    <link>http://localhost:1313/tags/case-study/</link>
+    <description>Recent content in Case Study on Outstanding Instructions by Nick Lieurance</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I helped SurveyMonkey use AI to make it easy for anybody to create a survey</title>
+      <link>http://localhost:1313/blog/build-with-ai/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/blog/build-with-ai/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

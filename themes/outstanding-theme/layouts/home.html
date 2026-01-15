@@ -7,8 +7,8 @@
 
 <div class="grid">
   <!--{{ .Content }}-->
-  {{ range site.RegularPages }}
-    <div class="post"><h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ range where .Site.RegularPages "Section" "!=" "blog" }}
+    <div class="post"><h2 class="cardTitle"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     <div class="summary">{{ .Summary }}</div></div>
   {{ end }}</div>
 {{ end }}

@@ -31,13 +31,13 @@ footer {
   text-align: center;
 }
 
-h2 a {
+.cardTitle a {
   color: white;
   text-decoration: none;
 }
 
 /* sets the color of all links */
-h2 a:hover{
+.cardTitle a:hover{
   color:#032B43;
 }
 
@@ -198,3 +198,12 @@ figure img{
 hr{
   color: #463C74;
 }
+
+.postTitle a{
+  color:#463C74;
+}
+
+.postTitle a:hover{
+  color:white;
+}
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX Writing on Outstanding Instructions by Nick Lieurance</title>
+    <link>http://localhost:1313/tags/ux-writing/</link>
+    <description>Recent content in UX Writing on Outstanding Instructions by Nick Lieurance</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ux-writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I helped SurveyMonkey use AI to make it easy for anybody to create a survey</title>
+      <link>http://localhost:1313/blog/build-with-ai/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/blog/build-with-ai/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Build with AI is a new way to create surveys, and it&amp;rsquo;s powered by OpenAI. The user types short instructions. Then AI generates a survey accordingly. It&amp;rsquo;s fast, accurate, and results in high-quality surveys.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My role&lt;/h2&gt;&#xA;&lt;p&gt;I wrote all the user interface copy, led feature naming efforts, and tested the content for usability. Keep reading to find out how I wrote outstanding instructions and other content that made this feature the #1 way new users create surveys.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
