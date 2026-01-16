@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Outstanding Instructions by Nick Lieurance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:30:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case Study</title>
+      <link>http://localhost:1313/tags/case-study/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/case-study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SurveyMonkey</title>
+      <link>http://localhost:1313/tags/surveymonkey/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/surveymonkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UX Writing</title>
+      <link>http://localhost:1313/tags/ux-writing/</link>
+      <pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/ux-writing/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
